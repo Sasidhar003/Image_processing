@@ -1,2 +1,2 @@
-# Python
+# Image Processing
 python repository
